@@ -1,6 +1,6 @@
 {
-  "name": "chrome-ext",
-  "description": "A Vue.js web extension",
+  "name": "Crypto20 Token Portfolio",
+  "description": "An extension for C20 tokens",
   "version": "1.0.0",
   "manifest_version": 2,
   "icons": {
