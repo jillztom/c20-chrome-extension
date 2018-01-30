@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/AUAyDPl.png">
+<img src="https://i.imgur.com/j6oCxU8.jpg">
 
 
 # C20-chrome-extension
