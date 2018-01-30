@@ -1,3 +1,6 @@
+<img src="https://i.imgur.com/AUAyDPl.png">
+
+
 # C20-chrome-extension
 A Google Chrome Extension for Crypto20 Tokens.
 
