@@ -147,7 +147,7 @@
     
     methods: {
       getRates(){
-        axios.get('https://api.fixer.io/latest?base=USD').then((res)=>{
+        axios.get('https://openexchangerates.org/api/latest.json?app_id=b5127daca7ec4dcbaf094c4878dc411b').then((res)=>{
           this.currencies = res.data.rates;
           this.currencies.USD = 1;
         })
